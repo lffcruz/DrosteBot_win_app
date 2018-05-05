@@ -1,0 +1,10 @@
+C:\Users\lffcruz\Desktop\robot_martim\windows\DrosteBot\DrosteBot\bin\Release\DrosteBot.exe.config
+C:\Users\lffcruz\Desktop\robot_martim\windows\DrosteBot\DrosteBot\bin\Release\DrosteBot.exe
+C:\Users\lffcruz\Desktop\robot_martim\windows\DrosteBot\DrosteBot\bin\Release\DrosteBot.pdb
+C:\Users\lffcruz\Desktop\robot_martim\windows\DrosteBot\DrosteBot\obj\Release\DrosteBot.Form1.resources
+C:\Users\lffcruz\Desktop\robot_martim\windows\DrosteBot\DrosteBot\obj\Release\DrosteBot.Properties.Resources.resources
+C:\Users\lffcruz\Desktop\robot_martim\windows\DrosteBot\DrosteBot\obj\Release\DrosteBot.csproj.GenerateResource.Cache
+C:\Users\lffcruz\Desktop\robot_martim\windows\DrosteBot\DrosteBot\obj\Release\DrosteBot.exe
+C:\Users\lffcruz\Desktop\robot_martim\windows\DrosteBot\DrosteBot\obj\Release\DrosteBot.pdb
+C:\Users\lffcruz\Desktop\robot_martim\windows\DrosteBot\DrosteBot\obj\Release\DrosteBot.csprojResolveAssemblyReference.cache
+C:\Users\lffcruz\Desktop\robot_martim\windows\DrosteBot\DrosteBot\obj\Release\DrosteBot.csproj.CoreCompileInputs.cache

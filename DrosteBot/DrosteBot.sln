@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrosteBot", "DrosteBot\DrosteBot.csproj", "{A896AF9A-CEC3-4C99-8BFB-EAF8911195D3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DrosteBotSetup", "DrosteBotSetup\DrosteBotSetup.vdproj", "{7B2ABE87-7B0F-4719-A5FF-2702946DFBEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A896AF9A-CEC3-4C99-8BFB-EAF8911195D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A896AF9A-CEC3-4C99-8BFB-EAF8911195D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A896AF9A-CEC3-4C99-8BFB-EAF8911195D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A896AF9A-CEC3-4C99-8BFB-EAF8911195D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B2ABE87-7B0F-4719-A5FF-2702946DFBEC}.Debug|Any CPU.ActiveCfg = Debug
+		{7B2ABE87-7B0F-4719-A5FF-2702946DFBEC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F1690DD-5228-4506-8A0F-D2E1D6DEBB51}
+	EndGlobalSection
+EndGlobal
